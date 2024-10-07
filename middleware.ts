@@ -23,7 +23,7 @@ export function middleware(request: NextRequest): NextResponse {
       default-src 'self';
       script-src 'self' ${
          process.env.NODE_ENV === "production"
-            ? `'nonce-${nonce}' 'strict-dynamic'`
+            ? `'nonce-${nonce}'`
             : "'unsafe-inline' 'unsafe-eval'"
       };
       style-src 'self' 'unsafe-inline' https://fonts.googleapis.com;
@@ -33,8 +33,7 @@ export function middleware(request: NextRequest): NextResponse {
       connect-src 'self' https://api.pinata.cloud https://uploads.pinata.cloud https://${process.env.NEXT_PUBLIC_PINATA_GATEWAY_URL};
       frame-src 'self';
       object-src 'none';
-      frame-ancestors 'none';
-      upgrade-insecure-requests;`;
+      frame-ancestors 'none';`;
    const contentSecurityPolicyHeaderValue = cspHeader
       .replace(/\s{2,}/g, " ")
       .trim();
