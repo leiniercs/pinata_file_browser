@@ -1,0 +1,45 @@
+{
+   "metadata": {
+      "title": "Pinata 文件浏览器",
+      "description": "为 Dev Community 竞赛创建的网络应用程序 (https://dev.to/challenges/pinata)",
+      "keywords": "网络应用程序，反应，nextjs，开发者社区，挑战，Pinata 云，IPFS"
+   },
+   "header": {
+      "openMenu": "打开菜单",
+      "closeMenu": "关闭菜单",
+      "logo": "徽标",
+      "languages": {
+         "current-language": "当前语言",
+         "click-to-choose": "点击选择",
+         "language-selection": "语言选择"
+      },
+      "themes": {
+         "light": "浅色",
+         "dark": "深色",
+         "current_theme": "当前主题",
+         "click-to-toggle": "点击切换"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "首页"
+      }
+   },
+   "common": { "cancel": "取消", "download": "下载", "delete": "删除" },
+   "file_list": { "title": "文件列表" },
+   "file_details": {
+      "title": "文件详情",
+      "file_name": "文件名",
+      "size": "大小",
+      "mime_type": "MIME 类型",
+      "cid": "内容标识符",
+      "creation_date": "创建日期"
+   },
+   "file_upload": {
+      "title": "上传文件",
+      "drop_files_here": "将文件拖放到此处",
+      "choose_files": "或选择您的文件",
+      "upload": "上传",
+      "uploading": "上传中"
+   }
+}

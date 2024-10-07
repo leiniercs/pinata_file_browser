@@ -1,0 +1,45 @@
+{
+   "metadata": {
+      "title": "مستعرض ملفات بيناتا",
+      "description": "تطبيق ويب تم إنشاؤه لمسابقة في مجتمع المطورين (https://dev.to/challenges/pinata)",
+      "keywords": "تطبيق ويب، رياكت، نيكست جي إس، مجتمع المطورين، تحدي، بيناتا كلاود، أي بي إف إس"
+   },
+   "header": {
+      "openMenu": "فتح القائمة",
+      "closeMenu": "إغلاق القائمة",
+      "logo": "الشعار",
+      "languages": {
+         "current-language": "اللغة الحالية",
+         "click-to-choose": "انقر للاختيار",
+         "language-selection": "اختيار اللغة"
+      },
+      "themes": {
+         "light": "فاتح",
+         "dark": "داكن",
+         "current-theme": "السِمة الحالية",
+         "click-to-toggle": "انقر للتبديل"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "الرئيسية"
+      }
+   },
+   "common": { "cancel": "إلغاء", "download": "تنزيل", "delete": "حذف" },
+   "file_list": { "title": "قائمة الملفات" },
+   "file_details": {
+      "title": "تفاصيل الملف",
+      "file_name": "اسم الملف",
+      "size": "الحجم",
+      "mime_type": "نوع الملف",
+      "cid": "معرف المحتوى",
+      "creation_date": "تاريخ الإنشاء"
+   },
+   "file_upload": {
+      "title": "تحميل الملفات",
+      "drop_files_here": "أسقط ملفاتك هنا",
+      "choose_files": "أو اختر ملفاتك",
+      "upload": "تحميل",
+      "uploading": "جاري التحميل"
+   }
+}

@@ -1,0 +1,49 @@
+{
+   "metadata": {
+      "title": "پناٹا فائل براؤزر",
+      "description": "ڈیو کمیونٹی میں ایک مقابلے کے لیے بنائی گئی ویب ایپ (https://dev.to/challenges/pinata)",
+      "keywords": "ویب ایپ، ری ایکٹ، نیکسٹ جے ایس، ڈیو کمیونٹی، چیلنج، پناٹا کلاؤڈ، آئی پی ایف ایس"
+   },
+   "header": {
+      "openMenu": "مینو کھولیں",
+      "closeMenu": "مینو بند کریں",
+      "logo": "لوگو",
+      "languages": {
+         "current_language": "موجودہ زبان",
+         "click-to-choose": "منتخب کرنے کیلئے کلک کریں",
+         "language-selection": "زبان کا انتخاب"
+      },
+      "themes": {
+         "light": "ہلکا",
+         "dark": "گہرا",
+         "current_theme": "موجودہ تھیم",
+         "click-to-toggle": "ٹوگل کرنے کیلئے کلک کریں"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "ہوم"
+      }
+   },
+   "common": {
+      "cancel": "منسوخ کریں",
+      "download": "ڈاؤن لوڈ کریں",
+      "delete": "حذف کریں"
+   },
+   "file_list": { "title": "فائل کی فہرست" },
+   "file_details": {
+      "title": "فائل کی تفصیلات",
+      "file_name": "فائل کا نام",
+      "size": "سائز",
+      "mime_type": "مائم قسم",
+      "cid": "مواد کی شناخت",
+      "creation_date": "تاریخ تخلیق"
+   },
+   "file_upload": {
+      "title": "فائل اپ لوڈ کریں",
+      "drop_files_here": "اپنی فائلیں یہاں چھوڑیں",
+      "choose_files": "یا اپنی فائلیں منتخب کریں",
+      "upload": "اپ لوڈ کریں",
+      "uploading": "اپ لوڈ ہو رہا ہے"
+   }
+}

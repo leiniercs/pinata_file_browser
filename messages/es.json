@@ -1,0 +1,49 @@
+{
+   "metadata": {
+      "title": "Explorador de archivos Pinata",
+      "description": "Aplicación web creada para un concurso en Dev Community (https://dev.to/challenges/pinata)",
+      "keywords": "aplicación web, react, nextjs, comunidad de desarrolladores, desafío, nube Pinata, IPFS"
+   },
+   "header": {
+      "openMenu": "Abrir menú",
+      "closeMenu": "Cerrar menú",
+      "logo": "Logo",
+      "languages": {
+         "current-language": "Idioma actual",
+         "click-to-choose": "Haga clic para elegir",
+         "language-selection": "Selección de idioma"
+      },
+      "themes": {
+         "light": "Claro",
+         "dark": "Oscuro",
+         "current-theme": "Tema actual",
+         "click-to-toggle": "Haga clic para cambiar"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "Inicio"
+      }
+   },
+   "common": {
+      "cancel": "Cancelar",
+      "download": "Descargar",
+      "delete": "Eliminar"
+   },
+   "file_list": { "title": "Lista de archivos" },
+   "file_details": {
+      "title": "Detalles del archivo",
+      "file_name": "Nombre del archivo",
+      "size": "Tamaño",
+      "mime_type": "Tipo MIME",
+      "cid": "Identificador de contenido",
+      "creation_date": "Fecha de creación"
+   },
+   "file_upload": {
+      "title": "Subir archivo(s)",
+      "drop_files_here": "Arrastre sus archivos aquí",
+      "choose_files": "O elija sus archivos",
+      "upload": "Subir",
+      "uploading": "Subiendo"
+   }
+}

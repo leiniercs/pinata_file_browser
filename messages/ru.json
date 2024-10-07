@@ -1,0 +1,45 @@
+{
+   "metadata": {
+      "title": "Браузер файлов Pinata",
+      "description": "Веб-приложение, созданное для конкурса в Dev Community (https://dev.to/challenges/pinata)",
+      "keywords": "веб-приложение, react, nextjs, сообщество разработчиков, соревнование, облако Pinata, IPFS"
+   },
+   "header": {
+      "openMenu": "Открыть меню",
+      "closeMenu": "Закрыть меню",
+      "logo": "Логотип",
+      "languages": {
+         "current_language": "Текущий язык",
+         "click-to-choose": "Нажмите, чтобы выбрать",
+         "language-selection": "Выбор языка"
+      },
+      "themes": {
+         "light": "Светлая",
+         "dark": "Тёмная",
+         "current_theme": "Текущая тема",
+         "click-to-toggle": "Нажмите, чтобы переключить"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "Главная"
+      }
+   },
+   "common": { "cancel": "Отмена", "download": "Скачать", "delete": "Удалить" },
+   "file_list": { "title": "Список файлов" },
+   "file_details": {
+      "title": "Сведения о файле",
+      "file_name": "Имя файла",
+      "size": "Размер",
+      "mime_type": "Тип MIME",
+      "cid": "Идентификатор контента",
+      "creation_date": "Дата создания"
+   },
+   "file_upload": {
+      "title": "Загрузить файлы",
+      "drop_files_here": "Перетащите файлы сюда",
+      "choose_files": "Или выберите файлы",
+      "upload": "Загрузить",
+      "uploading": "Загрузка"
+   }
+}

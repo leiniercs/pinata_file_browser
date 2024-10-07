@@ -1,0 +1,45 @@
+{
+   "metadata": {
+      "title": "Pinata Files Browser",
+      "description": "Web app created for a contest in Dev Community (https://dev.to/challenges/pinata)",
+      "keywords": "web app, react, nextjs, dev community, challenge, pinata cloud, ipfs"
+   },
+   "header": {
+      "openMenu": "Open menu",
+      "closeMenu": "Close menu",
+      "logo": "Logo",
+      "languages": {
+         "current-language": "Current language",
+         "click-to-choose": "Click to choose",
+         "language-selection": "Language selection"
+      },
+      "themes": {
+         "light": "Light",
+         "dark": "Dark",
+         "current-theme": "Current theme",
+         "click-to-toggle": "Click to toggle"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "Home"
+      }
+   },
+   "common": { "cancel": "Cancel", "download": "Download", "delete": "Delete" },
+   "file_list": { "title": "File list" },
+   "file_details": {
+      "title": "File details",
+      "file_name": "File name",
+      "size": "Size",
+      "mime_type": "Mime type",
+      "cid": "Content Identifier",
+      "creation_date": "Creation date"
+   },
+   "file_upload": {
+      "title": "Upload file(s)",
+      "drop_files_here": "Drop your files here",
+      "choose_files": "Or choose your files",
+      "upload": "Upload",
+      "uploading": "Uploading"
+   }
+}

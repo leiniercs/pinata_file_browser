@@ -1,0 +1,49 @@
+{
+   "metadata": {
+      "title": "পিনাটা ফাইল ব্রাউজার",
+      "description": "ডেভ কমিউনিটিতে একটি প্রতিযোগিতার জন্য তৈরি ওয়েব অ্যাপ (https://dev.to/challenges/pinata)",
+      "keywords": "ওয়েব অ্যাপ, রিঅ্যাক্ট, নেক্সটজেএস, ডেভ কমিউনিটি, চ্যালেঞ্জ, পিনাটা ক্লাউড, আইপিএফএস"
+   },
+   "header": {
+      "openMenu": "মেনু খুলুন",
+      "closeMenu": "মেনু বন্ধ করুন",
+      "logo": "লোগো",
+      "languages": {
+         "current-language": "বর্তমান ভাষা",
+         "click-to-choose": "বাছাই করতে ক্লিক করুন",
+         "language-selection": "ভাষা নির্বাচন"
+      },
+      "themes": {
+         "light": "উজ্জ্বল",
+         "dark": "অন্ধকার",
+         "current-theme": "বর্তমান থিম",
+         "click-to-toggle": "টগল করতে ক্লিক করুন"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "হোম"
+      }
+   },
+   "common": {
+      "cancel": "বাতিল",
+      "download": "ডাউনলোড",
+      "delete": "মুছে ফেলুন"
+   },
+   "file_list": { "title": "ফাইল তালিকা" },
+   "file_details": {
+      "title": "ফাইলের বিবরণ",
+      "file_name": "ফাইলের নাম",
+      "size": "আকার",
+      "mime_type": "মাইম টাইপ",
+      "cid": "কন্টেন্ট আইডেন্টিফায়ার",
+      "creation_date": "তৈরির তারিখ"
+   },
+   "file_upload": {
+      "title": "ফাইল আপলোড করুন",
+      "drop_files_here": "আপনার ফাইলগুলি এখানে ফেলুন",
+      "choose_files": "অথবা আপনার ফাইলগুলি নির্বাচন করুন",
+      "upload": "আপলোড",
+      "uploading": "আপলোড হচ্ছে"
+   }
+}

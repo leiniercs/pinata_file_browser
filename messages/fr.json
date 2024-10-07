@@ -1,0 +1,49 @@
+{
+   "metadata": {
+      "title": "Navigateur de fichiers Pinata",
+      "description": "Application Web créée pour un concours sur Dev Community (https://dev.to/challenges/pinata)",
+      "keywords": "application web, react, nextjs, communauté de développeurs, défi, cloud Pinata, IPFS"
+   },
+   "header": {
+      "openMenu": "Ouvrir le menu",
+      "closeMenu": "Fermer le menu",
+      "logo": "Logo",
+      "languages": {
+         "current-language": "Langue actuelle",
+         "click-to-choose": "Cliquez pour choisir",
+         "language-selection": "Sélection de la langue"
+      },
+      "themes": {
+         "light": "Clair",
+         "dark": "Sombre",
+         "current_theme": "Thème actuel",
+         "click-to-toggle": "Cliquez pour changer"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "Accueil"
+      }
+   },
+   "common": {
+      "cancel": "Annuler",
+      "download": "Télécharger",
+      "delete": "Supprimer"
+   },
+   "file_list": { "title": "Liste des fichiers" },
+   "file_details": {
+      "title": "Détails du fichier",
+      "file_name": "Nom du fichier",
+      "size": "Taille",
+      "mime_type": "Type MIME",
+      "cid": "Identifiant de contenu",
+      "creation_date": "Date de création"
+   },
+   "file_upload": {
+      "title": "Télécharger des fichiers",
+      "drop_files_here": "Déposez vos fichiers ici",
+      "choose_files": "Ou choisissez vos fichiers",
+      "upload": "Télécharger",
+      "uploading": "Téléchargement en cours"
+   }
+}

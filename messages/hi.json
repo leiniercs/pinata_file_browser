@@ -1,0 +1,49 @@
+{
+   "metadata": {
+      "title": "पिनटा फ़ाइल ब्राउज़र",
+      "description": "डेव कम्युनिटी में एक प्रतियोगिता के लिए बनाया गया वेब ऐप (https://dev.to/challenges/pinata)",
+      "keywords": "वेब ऐप, रिएक्ट, नेक्स्टजेएस, डेव कम्युनिटी, चुनौती, पिनटा क्लाउड, आईपीएफएस"
+   },
+   "header": {
+      "openMenu": "मेनू खोलें",
+      "closeMenu": "मेनू बंद करें",
+      "logo": "लोगो",
+      "languages": {
+         "current-language": "वर्तमान भाषा",
+         "click-to-choose": "चुनने के लिए क्लिक करें",
+         "language-selection": "भाषा चयन"
+      },
+      "themes": {
+         "light": "हल्का",
+         "dark": "गहरा",
+         "current_theme": "वर्तमान थीम",
+         "click-to-toggle": "टॉगल करने के लिए क्लिक करें"
+      }
+   },
+   "home": {
+      "metadata": {
+         "title": "होम"
+      }
+   },
+   "common": {
+      "cancel": "रद्द करें",
+      "download": "डाउनलोड करें",
+      "delete": "डिलीट करें"
+   },
+   "file_list": { "title": "फ़ाइल सूची" },
+   "file_details": {
+      "title": "फ़ाइल विवरण",
+      "file_name": "फ़ाइल का नाम",
+      "size": "आकार",
+      "mime_type": "माइम प्रकार",
+      "cid": "सामग्री पहचानकर्ता",
+      "creation_date": "बनाने की तिथि"
+   },
+   "file_upload": {
+      "title": "फ़ाइल अपलोड करें",
+      "drop_files_here": "अपनी फ़ाइलें यहाँ ड्रॉप करें",
+      "choose_files": "या अपनी फ़ाइलें चुनें",
+      "upload": "अपलोड करें",
+      "uploading": "अपलोड हो रहा है"
+   }
+}
