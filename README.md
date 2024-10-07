@@ -1,5 +1,7 @@
 Web app created for a [contest](https://dev.to/challenges/pinata) in [Dev Community](https://dev.to)
 
+![Cover](https://github.com/leiniercs/pinata_file_browser/raw/refs/heads/main/demos/cover.png)
+
 ## What's under the hood
 
 -  NodeJS - [https://www.nodejs.org](https://www.nodejs.org)
