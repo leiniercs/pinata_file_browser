@@ -24,6 +24,7 @@ Web app created for a [contest](https://dev.to/challenges/pinata) in [Dev Commun
 -  Detection of the user's browser language
 -  Dark/Light themes
 -  Drag and drop support
+-  Responsive design (desktop, tables and mobile)
 
 ## The first
 
