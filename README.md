@@ -1,4 +1,4 @@
-# Simple and browser-scoped IPFS file browser
+# Simple and browser-scoped IPFS file browser leveraging Pinata Cloud SDK
 
 Web app created for a [contest](https://dev.to/challenges/pinata) in [Dev Community](https://dev.to).
 
