@@ -1,4 +1,8 @@
-Web app created for a [contest](https://dev.to/challenges/pinata) in [Dev Community](https://dev.to)
+# Simple and browser-scoped IPFS file browser
+
+Web app created for a [contest](https://dev.to/challenges/pinata) in [Dev Community](https://dev.to).
+
+With this web application the user can upload, download, preview, and delete files using Pinata Cloud SDK. I built this web app for participating in the contest only and I've used some of my knowledge gained from other projects I've made.
 
 ![Cover](https://github.com/leiniercs/pinata_file_browser/raw/refs/heads/main/demos/cover.png)
 
