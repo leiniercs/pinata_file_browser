@@ -21,6 +21,7 @@ Web app created for a [contest](https://dev.to/challenges/pinata) in [Dev Commun
 -  Visualization of optimized image thumbnails from Pinata Cloud
 -  Audio and video playback in the file details dialog
 -  Translations for the 10 most spoken languages
+-  Detection of the user's browser language
 -  Dark/Light themes
 -  Drag and drop support
 
