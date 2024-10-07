@@ -6,7 +6,7 @@ import { Switch, Tooltip } from "@nextui-org/react";
 import { FaSun, FaMoon } from "react-icons/fa6";
 
 export function ThemeSwitcher() {
-   const tHeader = useTranslations("header");
+   const tThemes = useTranslations("header.themes");
    const { theme, setTheme } = useTheme();
    const [mounted, setMounted] = useState<boolean>(false);
 
@@ -23,9 +23,9 @@ export function ThemeSwitcher() {
          content={
             <div className="flex flex-col gap-1">
                <span>
-                  {tHeader("current-theme")}: {tHeader(theme)}
+                  {tThemes("current-theme")}: {tThemes(theme)}
                </span>
-               <span>{tHeader("click-to-toggle")}</span>
+               <span>{tThemes("click-to-toggle")}</span>
             </div>
          }
       >
