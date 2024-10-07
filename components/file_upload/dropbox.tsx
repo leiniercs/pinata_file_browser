@@ -117,7 +117,6 @@ export function FileUploadDropbox({
                <input
                   ref={refFile}
                   type="file"
-                  capture
                   multiple
                   hidden
                   onChange={onFileChange}
